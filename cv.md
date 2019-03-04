@@ -2,12 +2,12 @@
 
 ###                        PERSONAL INFORMATION
 
-**Adress:**                    14 Vaneeva str 67, Minsk 220030, Belarus
-**Telephone:**	               +375295715148
-**E-mail:**	               ivan.dubrouski@gmail.com
-**Skype:**	               ivan_dubrovski
-**Date of birth:**	       24th June 1988
-**Nationality:**	       Belarus
+**Adress:** 14 Vaneeva str 67, Minsk 220030, Belarus
+**Telephone:** +375295715148
+**E-mail:** ivan.dubrouski@gmail.com
+**Skype:** ivan_dubrovski
+**Date of birth:** 24th June 1988
+**Nationality:** Belarus
 
 
 
@@ -72,3 +72,4 @@ Medium level
 7. open-minded
 8. attentive
 
+v
